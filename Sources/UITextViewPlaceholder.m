@@ -21,7 +21,7 @@
 // SOFTWARE.
 
 #import <objc/runtime.h>
-#import "UITextView+Placeholder.h"
+#import "UITextViewPlaceholder.h"
 
 @implementation UITextView (Placeholder)
 

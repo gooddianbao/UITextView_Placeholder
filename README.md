@@ -1,4 +1,4 @@
-UITextView+Placeholder
+UITextViewPlaceholder
 ======================
 
 [![Build Status](https://travis-ci.org/devxoul/UITextView-Placeholder.svg?branch=master)](https://travis-ci.org/devxoul/UITextView-Placeholder)
@@ -10,11 +10,9 @@ A missing placeholder for UITextView.
 Installation
 ------------
 
-Use [CocoaPods](http://cocoapods.org).
+Use Swift Package Manager
 
-```ruby
-pod 'UITextView+Placeholder'
-```
+
 
 
 Usage
